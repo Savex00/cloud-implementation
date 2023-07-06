@@ -1,0 +1,6 @@
+Flask
+Flask-SQLAlchemy
+flask_marshmallow
+flask_cors
+psycopg2-binary
+marshmallow-sqlalchemy
